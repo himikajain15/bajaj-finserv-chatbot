@@ -1,9 +1,0 @@
-streamlit
-pandas
-langchain
-langchain-community
-sentence-transformers
-llama-cpp-python
-faiss-cpu
-PyPDF2
-tiktoken
